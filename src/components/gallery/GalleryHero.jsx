@@ -11,7 +11,7 @@ export default function GalleryHero() {
       "
     >
       <img
-        src="/images/gallery/hero.jpg"
+        src="/gallery/hero.jpg"
         alt="Cue Club"
         className="
         gallery-image

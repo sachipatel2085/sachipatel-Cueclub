@@ -6,15 +6,18 @@ export default function StoryStats() {
           <h2
             className="
     stat-number
-    text-[180px]
+    text-7xl
+    sm:text-8xl
+    md:text-[120px]
+    lg:text-[150px]
+    xl:text-[180px]
     font-black
-    text-[#D4AF37]
     text-transparent
-bg-clip-text
-bg-gradient-to-b
-from-[#F8E7A3]
-to-[#D4AF37]
-drop-shadow-[0_0_40px_rgba(212,175,55,0.35)]
+    bg-clip-text
+    bg-gradient-to-b
+    from-[#F8E7A3]
+    to-[#D4AF37]
+    drop-shadow-[0_0_40px_rgba(212,175,55,0.35)]
   "
           >
             0
@@ -31,15 +34,18 @@ drop-shadow-[0_0_40px_rgba(212,175,55,0.35)]
           <h2
             className="
     stat-number-two
-    text-[180px]
+    text-7xl
+    sm:text-8xl
+    md:text-[120px]
+    lg:text-[150px]
+    xl:text-[180px]
     font-black
-    text-[#D4AF37]
     text-transparent
-bg-clip-text
-bg-gradient-to-b
-from-[#F8E7A3]
-to-[#D4AF37]
-drop-shadow-[0_0_40px_rgba(212,175,55,0.35)]
+    bg-clip-text
+    bg-gradient-to-b
+    from-[#F8E7A3]
+    to-[#D4AF37]
+    drop-shadow-[0_0_40px_rgba(212,175,55,0.35)]
   "
           >
             0
