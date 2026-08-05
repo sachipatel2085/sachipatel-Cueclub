@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.hero-scene {
+  transform-origin: center;
+  will-change: transform, opacity;
+}
+
+.hero-title {
+  perspective: 1000px;
+}
+
+.hero-buttons,
+.hero-description,
+.hero-badge,
+.scroll-indicator {
+  will-change: transform, opacity;
+}
